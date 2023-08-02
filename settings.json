@@ -22,7 +22,17 @@
         "colrev_version": "0.9.2",
         "auto_upgrade": true
     },
-    "sources": [],
+    "sources": [
+        {
+            "endpoint": "colrev.synergy_datasets",
+            "filename": "data/search/SYNERGY_Yu_2018_Hall_2012.bib",
+            "search_type": "OTHER",
+            "search_parameters": {
+                "dataset": "Yu_2018/Hall_2012_ids.csv"
+            },
+            "comment": ""
+        }
+    ],
     "search": {
         "retrieve_forthcoming": true
     },
