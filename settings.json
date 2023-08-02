@@ -33,12 +33,26 @@
             {
                 "name": "prep",
                 "similarity": 0.8,
-                "prep_package_endpoints": []
+                "prep_package_endpoints": [
+                    {
+                        "endpoint": "colrev.source_specific_prep"
+                    },
+                    {
+                        "endpoint": "colrev.open_alex_prep"
+                    },
+                    {
+                        "endpoint": "colrev.get_masterdata_from_crossref"
+                    },
+                    {
+                        "endpoint": "colrev.get_masterdata_from_pubmed"
+                    }
+                ]
             }
         ],
         "prep_man_package_endpoints": [],
         "defects_to_ignore": [
-            "inconsistent-with-url-metadata"
+            "inconsistent-with-url-metadata",
+            "inconsistent-with-doi-metadata"
         ]
     },
     "dedupe": {
