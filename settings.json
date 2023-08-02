@@ -1,0 +1,72 @@
+{
+    "project": {
+        "title": "Hall_2012",
+        "authors": [
+            {
+                "name": "Gerit Wagner",
+                "initials": "GW",
+                "email": "gerit.wagner@uni-bamberg.de",
+                "orcid": null,
+                "contributions": [],
+                "affiliations": null,
+                "funding": [],
+                "identifiers": []
+            }
+        ],
+        "keywords": [],
+        "protocol": null,
+        "review_type": "colrev.blank",
+        "id_pattern": "three_authors_year",
+        "share_stat_req": "processed",
+        "delay_automated_processing": false,
+        "colrev_version": "0.9.2",
+        "auto_upgrade": true
+    },
+    "sources": [],
+    "search": {
+        "retrieve_forthcoming": true
+    },
+    "load": {},
+    "prep": {
+        "fields_to_keep": [],
+        "prep_rounds": [
+            {
+                "name": "prep",
+                "similarity": 0.8,
+                "prep_package_endpoints": []
+            }
+        ],
+        "prep_man_package_endpoints": [],
+        "defects_to_ignore": [
+            "inconsistent-with-url-metadata"
+        ]
+    },
+    "dedupe": {
+        "same_source_merges": "prevent",
+        "dedupe_package_endpoints": []
+    },
+    "prescreen": {
+        "explanation": "",
+        "prescreen_package_endpoints": []
+    },
+    "pdf_get": {
+        "pdf_path_type": "symlink",
+        "pdf_required_for_screen_and_synthesis": false,
+        "rename_pdfs": true,
+        "pdf_get_package_endpoints": [],
+        "pdf_get_man_package_endpoints": []
+    },
+    "pdf_prep": {
+        "keep_backup_of_pdfs": true,
+        "pdf_prep_package_endpoints": [],
+        "pdf_prep_man_package_endpoints": []
+    },
+    "screen": {
+        "explanation": null,
+        "criteria": {},
+        "screen_package_endpoints": []
+    },
+    "data": {
+        "data_package_endpoints": []
+    }
+}
