@@ -31,6 +31,20 @@
                 "dataset": "Yu_2018/Hall_2012_ids.csv"
             },
             "comment": ""
+        },
+        {
+            "endpoint": "colrev.open_alex",
+            "filename": "data/search/md_open_alex.bib",
+            "search_type": "OTHER",
+            "search_parameters": {},
+            "comment": ""
+        },
+        {
+            "endpoint": "colrev.crossref",
+            "filename": "data/search/md_crossref.bib",
+            "search_type": "OTHER",
+            "search_parameters": {},
+            "comment": ""
         }
     ],
     "search": {
