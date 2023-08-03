@@ -69,6 +69,18 @@
                 }
             },
             "comment": ""
+        },
+        {
+            "endpoint": "colrev.crossref",
+            "filename": "data/search/crossref_issn=0098-5589;years=2000-2010.bib",
+            "search_type": "DB",
+            "search_parameters": {
+                "scope": {
+                    "issn": "0098-5589",
+                    "years": "2000-2010"
+                }
+            },
+            "comment": ""
         }
     ],
     "search": {
