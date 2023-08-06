@@ -48,7 +48,7 @@
         },
         {
             "endpoint": "colrev.crossref",
-            "filename": "data/search/crossref_issn=0885-8977;years=2000-2010.bib",
+            "filename": "data/search/crossref_issn=0885-8977_years=2000-2010.bib",
             "search_type": "DB",
             "search_parameters": {
                 "scope": {
@@ -60,7 +60,7 @@
         },
         {
             "endpoint": "colrev.crossref",
-            "filename": "data/search/crossref_issn=0018-9456;years=2000-2010.bib",
+            "filename": "data/search/crossref_issn=0018-9456_years=2000-2010.bib",
             "search_type": "DB",
             "search_parameters": {
                 "scope": {
@@ -72,7 +72,7 @@
         },
         {
             "endpoint": "colrev.crossref",
-            "filename": "data/search/crossref_issn=0098-5589;years=2000-2010.bib",
+            "filename": "data/search/crossref_issn=0098-5589_years=2000-2010.bib",
             "search_type": "DB",
             "search_parameters": {
                 "scope": {
